@@ -321,7 +321,7 @@ void receiver(void *param)
 			break;
 		}
 
-		n = recvfrom(client_udp_socket,buffer,1500,0,(struct sockaddr *) &server_addr,&server_udp_sock_len);
+		n = recvfrom(client_udp_socket,buffer,500000,0,(struct sockaddr *) &server_addr,&server_udp_sock_len);
 		received_state = 1;
 
 		if (n < 0)
