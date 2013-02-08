@@ -1,5 +1,5 @@
 /*
- * Client.cpp
+ * commonFunctions.cpp
  * Common Functions and Variables used in client and server
  *
  * Code written by Aniket Zamwar
