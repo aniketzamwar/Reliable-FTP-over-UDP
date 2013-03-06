@@ -1,10 +1,6 @@
 /*
  * Client.cpp
  * File Sender
- *
- * Code written by Abhishek Prabhudesai
- * prabhude@usc.edu
- * designed by Aniket and Abhishek
  */
 
 #include "common.h"
